@@ -1,5 +1,5 @@
 # discordsticker
-# -HOW TO GET DISCORD STICKERS!!
+# -How to get discord stickers
 # -You can watch the video on how to do it here:
 # -https://youtu.be/AqeM4J1g4KQ
 # -You can copy and paste the code from *nicknamesc.js* instead of the pastebin.
