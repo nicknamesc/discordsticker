@@ -6,4 +6,4 @@
 # -please leave a star if this helped you get it
 ---
 ### -Twitter: @NicknameSC or @Nicknameleak
-### -Discord if you need help!!!!! https://discord.gg/TrAE7QW52C
+### -Discord if you need help!!!!! https://discord.com/invite/hVJAvhdyja
